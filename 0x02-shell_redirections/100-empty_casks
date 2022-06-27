@@ -1,2 +1,2 @@
 #!/bin/bash
--type f -empty -print
+type f -empty -print
