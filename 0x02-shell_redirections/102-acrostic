@@ -1,2 +1,2 @@
 #!/bin/bash
-if [[ $(echo $line|cut -c1-1) = "�" ]]
+cut -c 1 | tr -d '\n' | sort
