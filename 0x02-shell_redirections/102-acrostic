@@ -1,2 +1,2 @@
 #!/bin/bash
-${line:0:1}
+if [[ $(echo $line|cut -c1-1) = "�" ]]
