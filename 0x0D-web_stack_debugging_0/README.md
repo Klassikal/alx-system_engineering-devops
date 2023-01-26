@@ -1,6 +1,6 @@
 ```diff
 
 - Up and running code.
-- Author: Afolabi John Oluwaseun.
+- Author: Alfred Asante Apenteng
 
 ```
